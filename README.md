@@ -1,4 +1,4 @@
-![logo](https://github.com/siya-sen/siya-sen/blob/main/github-header-image%20(1).png?raw=true)
+![logo](https://github.com/siya-sen/siya-sen/blob/main/github-header-image%20(2).png?raw=true)
   
 <h1 align="center">Hi 👋, I'm Siya Sen</h1>
 <h3 align="center">A passionate python developer from India.</h3>
